@@ -1,4 +1,4 @@
-swapping without  3 rd variable
+#swapping without  3 rd variable
 num1=10
 num2=20
 num1=num1+num2
