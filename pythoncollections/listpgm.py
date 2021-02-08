@@ -1,0 +1,9 @@
+# lst=[10,20,30,40]
+# for num in lst:
+#     print(num)
+###############################################
+lst=["resh","bob","sam"]
+for name in lst:
+     print(name)
+
+
